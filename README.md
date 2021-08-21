@@ -1,10 +1,14 @@
 :hearts::cat::cherry_blossom:     
-[![rtner](https://img.shields.io/badge/MyGirl:-Trista--lover%20-orange.svg?colorA=FF1493)](https://github.com/Trista-lover)  
-&nbsp;  
+[![Love](https://img.shields.io/badge/MyGirl:-Trista--lover%20-orange.svg?colorA=FF1493)](https://github.com/Trista-lover)   
+![visitors](https://visitor-badge.glitch.me/badge?page_id=xhwhht.xhwhht) 
+<br/>
+  
 :telescope::Home  
 :seedling::AlgorithmProblem  
-:mailbox:: 
+:mailbox::  
 
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=xhwhht&show_icons=true&theme=algolia&count_private=true&hide=issues" alt="My Github Stats" />
 
 <!-- 
 <p align="center"> 
