@@ -7,8 +7,8 @@
 :seedling::AlgorithmProblem  
 :mailbox::  
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=xhwhht&show_icons=true&theme=algolia&count_private=true&hide=issues" alt="My Github Stats" />
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=xhwhht&show_icons=true&theme=chartreuse-dark&count_private=true&hide=issues,prs" alt="My Github Stats" />
 
 <!-- 
 <p align="center"> 
