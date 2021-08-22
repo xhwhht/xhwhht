@@ -8,7 +8,7 @@
 :mailbox::  
 
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=xhwhht&show_icons=true&theme=solarized-light&count_private=true&hide=issues,prs" alt="My Github Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=xhwhht&show_icons=true&theme=solarized-light&count_private=true&" alt="My Github Stats" />
 
 <!-- 
 <p align="center"> 
