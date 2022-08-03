@@ -1,8 +1,4 @@
-:hearts::cat::cherry_blossom:     
-[![Love](https://img.shields.io/badge/MyGirl:-Trista--lover%20-orange.svg?colorA=FF1493)](https://github.com/Trista-lover)   
-![visitors](https://visitor-badge.glitch.me/badge?page_id=xhwhht.xhwhht) 
-<br/>
-  
+
 :telescope::Home  
 :seedling::AlgorithmProblem  
 :mailbox::  
@@ -28,4 +24,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
