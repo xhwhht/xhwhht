@@ -5,7 +5,7 @@
 
 :telescope::Home  
 :seedling::AlgorithmProblem  
-:mailbox:: macrad (at)foxmail(dot)com
+:mailbox:: macrad(at)foxmail(dot)com
 
 <p align="left">
 <img src="https://github-readme-stats.vercel.app/api?username=xhwhht&show_icons=true&theme=solarized-light&count_private=true&" alt="My Github Stats" />
