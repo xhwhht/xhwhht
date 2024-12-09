@@ -1,8 +1,8 @@
 :hearts::cat::cherry_blossom:     
  [![Love](https://img.shields.io/badge/MyGirl:-Trista--lover%20-orange.svg?colorA=FF1493)](https://github.com/Trista-lover)   
- ![visitors](https://visitor-badge.glitch.me/badge?page_id=xhwhht.xhwhht) 
+ ![](https://komarev.com/ghpvc/?username=your-github-xhwhht)
  <br/>
-
+<!--><![visitors](https://visitor-badge.glitch.me/badge?page_id=xhwhht.xhwhht)/>
 
 :telescope::Home  
 :seedling::AlgorithmProblem  
